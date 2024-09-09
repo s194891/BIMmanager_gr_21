@@ -5,3 +5,11 @@
 	path = external/Structural-Group-24
 	url = https://github.com/Dupont2001/Structural-Group-24
 	branch = main
+[submodule "external/Advanced-BIM-Group-23"]
+	path = external/Advanced-BIM-Group-23
+	url = https://github.com/JanikRosien/Advanced-BIM-Group-23
+	branch = main
+[submodule "external/BIManalyst_g_22"]
+	path = external/BIManalyst_g_22
+	url = https://github.com/ioschkagautier/BIManalyst_g_22.git
+	branch = main
