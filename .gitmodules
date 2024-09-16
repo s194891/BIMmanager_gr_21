@@ -25,3 +25,7 @@
 	path = external/AdvBIM-G25
 	url = https://github.com/s203910/AdvBIM-G25
 	branch = main
+[submodule "external/BIManalyst-group-26"]
+	path = external/BIManalyst-group-26
+	url = https://github.com/OliverBIM/BIManalyst-group-26
+	branch = main
