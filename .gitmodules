@@ -21,3 +21,7 @@
 	path = external/GROUP_27
 	url = https://github.com/s237221/GROUP_27
 	branch = main
+[submodule "external/AdvBIM-G25"]
+	path = external/AdvBIM-G25
+	url = https://github.com/s203910/AdvBIM-G25
+	branch = main
