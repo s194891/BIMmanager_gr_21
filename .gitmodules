@@ -9,10 +9,6 @@
 	path = external/BIManalyst_g_28
 	url = https://github.com/FrederikJM/BIManalyst_g_28
 	branch = main
-[submodule "external/GROUP_27"]
-	path = external/GROUP_27
-	url = https://github.com/s237221/GROUP_27
-	branch = main
 [submodule "external/BIManalyst-group-26"]
 	path = external/BIManalyst-group-26
 	url = https://github.com/OliverBIM/BIManalyst-group-26
