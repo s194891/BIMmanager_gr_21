@@ -16,7 +16,7 @@ from external.BIManalyst_g_24.rules import Calcualting_surfaceload_slabs
 from external.BIManalyst_g_25.rules import nameElement
 #from external.BIManalyst_g_26.rules import A1_python_code
 from external.BIManalyst_g_27.rules import column_AreaRule
-from external.BIManalyst_g_28.rules import storeysRule
+from external.BIManalyst_g_28.rules import slabheightRule
 
 # Run all functions
 doorResult = doorRule.checkRule(model)
@@ -26,7 +26,7 @@ totalHResult = TotalHeightWallsRule.checkRule(model)
 #nameResult = nameElement.specifikElement(model)
 #beamResult = A1_python_code.checkRule(model)
 columnResult = column_AreaRule.checkRule(model)
-storeysRuleResult = storeysRule.checkRule(model)
+slabHeightResult = slabheightRule.checkRule(model)
 
 # see the results
 print("Door result:", doorResult)
@@ -36,4 +36,4 @@ print("total height Result ", totalHResult)
 #print("name result:",nameResult)
 #print("beam Result", beamResult)
 print("column result", columnResult)
-print("storeys Result", storeysRuleResult)
+print("slab Result", slabHeightResult)
