@@ -15,7 +15,7 @@ Managing the structural groups
 #2411
 
 **Identify claims Issue:**
-Time spend talking to the analyst gorups helping them to figure out thair claims
+Time spend talking to the analyst gorups helping them to figure out thair claims.
 
 **Short dectiption:**
 1. A main script incorporating the functions produced by the structural analyst groups.
@@ -25,19 +25,19 @@ Time spend talking to the analyst gorups helping them to figure out thair claims
 **Justify selection of claim**
 1. The script will show the functions from the structural teams and their interoperatbility
 
-2. Multible structural groups under management has expressed interest in displaying their results using color-grading on the model. The script (also found in this folder) can be used to facilitate the displaying of the groups results or as inspiration for this step in their process.
+2. Multible structural groups under management has expressed interest in displaying their results using color-grading on the model. *IfcColorMapping.py* (also found in this folder) can be used to facilitate the displaying of the groups results or as inspiration for this step in their process.
 
 # A2c: Use Case
-Not applicable managing work, but worked on with the structural groups.
+Not applicable to managing work, but worked on with the structural groups.
 
 # A2d: Scope use case
-Not applicable managing work, but the color-grading can fall into the latter part of some of the structural groups diagrams.
+Not applicable to managing work, but the color-grading script can fall into the latter part of some of the structural groups diagrams.
 
 # A2e: Tool Idea
-Not applicable managing work.
+Not applicable to managing work.
 
 # A2f: Information Requriemnts
-Not applicable managing work, but the color-grading code requires a list of GlobalId(s) with a secondary attribute belonging to each object.
+Not applicable to managing work, but the color-grading code requires a list of GlobalId(s) with a secondary attribute belonging to each object.
 
 # A2g: Use Case
 **Chosen softwear licence:**
