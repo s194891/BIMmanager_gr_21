@@ -19,8 +19,14 @@ Create a new folder in your file explorer, and name it
 
 <img src="/A4/pics/step_3_1.png" style="float: left;height: 500px;width: auto;" />
 
+<img src="/A4/pics/step_3_2.png" style="float: left;height: 500px;width: auto;" />
+
 ## Step 4:
 Create a temporary file in your folder. Note that there must always be at least one file in your folder. 
+
+<img src="/A4/pics/step_4_1.png" style="float: left;height: 500px;width: auto;" />
+
+<img src="/A4/pics/step_4_2.png" style="float: left;height: 500px;width: auto;" />
 
 ## Step 5:
 Write a summary of your changes in gitHub desktop and commit to main
