@@ -1,5 +1,7 @@
 ##--- Author
 # Kasper Krag, s194883, DTU
+# script to recolor IfcObjects by globalId in Ifc model
+# manual opening of file necerary to veiw changes
 
 
 ##--- Import libraries
@@ -12,7 +14,7 @@ import ifcopenshell.api.style
 ##--- Import IFC-model
 
 # Find file-path to model
-Models_directory = r'G:\Mit drev\0_DTU\10. Semester\41934 Advanced Building Information Modeling (BIM)\IFC mappe'
+Models_directory = r'C:\Users\julie\Google Drev\10.Semester\41934 Advanced BIM'
 
 # File name of model
 Model_filename = 'CES_BLD_24_06_STR.ifc'
@@ -33,7 +35,7 @@ GlobalIdSource = 1
 if GlobalIdSource == 1:
         
     # Find file-path to Rules 
-    Rules_directory = r'C:\Users\kaspe\Documents\GitHub\BIMmanager_gr_21'
+    Rules_directory = r'C:\Users\julie\Documents\GitHub\BIMmanager_gr_21'
     
     # Change directory
     os.chdir(Rules_directory)
@@ -50,7 +52,7 @@ if GlobalIdSource == 1:
     # Convert list of turple(s) to list of list(s)
     GlobalId = [list(i) for i in GlobalId ]
     
-    #Changing some values for ilustrative purposes
+    #Changing height of walls for ilustrative purposes
     GlobalId[3][1] = 65
     GlobalId[4][1] = 60
     GlobalId[5][1] = 40
@@ -99,5 +101,11 @@ for i in GlobalId:
     # Sets the color
     ifcopenshell.api.style.assign_representation_styles(Model, shape_representation=Thing.Representation, styles=[style])
 
+# New file name of model
+Model_filename = 'CES_BLD_24_06_STR_Recolor.ifc'
+
+# Join filepath to IFC-file
+Model_path = os.path.join(Models_directory, Model_filename)
+
 ##--- Save the modified IFC file
-Model.write(r"G:\Mit drev\0_DTU\10. Semester\41934 Advanced Building Information Modeling (BIM)\IFC mappe\test_04_All_walls.ifc")
+Model.write(Model_path)
