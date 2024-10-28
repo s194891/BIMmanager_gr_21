@@ -9,6 +9,7 @@ model_filename = 'CES_BLD_24_06_STR.ifc'
 model_path = os.path.join(models_directory, model_filename)
 model = ifcopenshell.open(model_path)
 
+
 from external.BIManalyst_g_xy.rules import doorRule
 from external.BIManalyst_g_22.rules import group22_function_get_columns_on_level
 from external.BIManalyst_g_23.rules import TotalHeightWallsRule
