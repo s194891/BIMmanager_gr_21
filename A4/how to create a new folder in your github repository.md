@@ -6,7 +6,7 @@ This toturial describes how to create a new folder within your exsisting gitHub 
 Open gitHub desktop
 ## Step 2:
 Go to repository > show in explorer
-![](f2.png)
+![something](/A4/pics/f2.png)
 
 ## Step 3:
 Create a new folder in your file explorer
