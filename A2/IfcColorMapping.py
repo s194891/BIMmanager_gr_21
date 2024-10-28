@@ -1,7 +1,11 @@
 ##--- Author
 # Kasper Krag, s194883, DTU
+
 # script to recolor IfcObjects by globalId in Ifc model
+
 # manual opening of file necerary to veiw changes
+# globalIds are coloured so heights value attached are red 
+# and lowest value attached are green
 
 
 ##--- Import libraries
