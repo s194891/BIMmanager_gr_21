@@ -22,3 +22,4 @@ Write a summary of your changes in gitHub desktop and commit to main
 
 ## Step 6:
 Click "push to origin" in gitHub desktop
+*picture*
