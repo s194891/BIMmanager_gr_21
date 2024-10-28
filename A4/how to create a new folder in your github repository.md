@@ -6,18 +6,18 @@ This toturial describes how to create a new folder within your exsisting gitHub 
 Open gitHub desktop
 ## Step 2:
 Go to repository > show in explorer
-*inset picture*
+![](f2.png)
 
 ## Step 3:
 Create a new folder in your file explorer
 *picture*
 
 ## Step 4:
-create a file in your folder
+Create a file in your folder. Note that there must always be at least one file in your folder. 
 
 ## Step 5:
-write a summary of your changes in gitHub desktop and commit to main
+Write a summary of your changes in gitHub desktop and commit to main
 *insert picture*
 
 ## Step 6:
-click "push to origin" in gitHub desktop
+Click "push to origin" in gitHub desktop
