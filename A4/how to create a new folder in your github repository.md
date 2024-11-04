@@ -30,7 +30,7 @@ Create a temporary file in your folder. Note that there must always be at least 
 
 ## Step 5:
 Write a summary of your changes in gitHub desktop and commit to main
-*insert picture*
+*insert pictur*
 
 ## Step 6:
 Click "push to origin" in gitHub desktop
