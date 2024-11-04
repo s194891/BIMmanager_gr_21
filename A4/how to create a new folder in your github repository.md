@@ -3,7 +3,7 @@ This toturial describes how to create a new folder within your exsisting gitHub 
 
 # Approach 
 ## Step 1:
-Open gitHub desktop
+Open GitHub desktop
 
 <img src="/A4/pics/step_1_1.png" style="float: left;height: 500px;width: auto;" />
 
@@ -29,11 +29,18 @@ Create a temporary file in your folder. Note that there must always be at least 
 <img src="/A4/pics/step_4_2.png" style="float: left;height: 500px;width: auto;" />
 
 ## Step 5:
-Write a summary of your changes in gitHub desktop and commit to main
+Write a summary of your changes in GitHub desktop and commit to main
 <img src="/A4/pics/step_5_1.png" style="float: left;height: 500px;width: auto;" />
 
-<img src="/A4/pics/step_5_2_t1.png" style="float: left;height: 500px;width: auto;" />
+<img src="/A4/pics/step_5_2.png" style="float: left;height: 500px;width: auto;" />
+
 
 ## Step 6:
-Click "push to origin" in gitHub desktop
-*picture*
+Click "push to origin" in GitHub desktop
+<img src="/A4/pics/step_6_1.png" style="float: left;height: 500px;width: auto;" />
+
+<img src="/A4/pics/step_6_2.png" style="float: left;height: 500px;width: auto;" />
+
+## Step 7:
+Check the GitHub webside and see your new folder
+<img src="/A4/pics/step_7_1.png" style="float: left;height: 500px;width: auto;" />
