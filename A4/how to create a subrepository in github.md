@@ -25,7 +25,7 @@ Copy the link to repository
 ## Step 6:
 Type "git submodule add -b main https://github.com/timmcginley/BIManalyst_g_xy.git"
 
-<img src="/A4/pics/addSubmodule.PNG" style="float: left;width: 100px;height: auto;" />
+<img src="/A4/pics/addSubmodule.PNG" style="float: left;height: 100px;width: auto;"" />
 
 ## Step 7:
 Commit changes in github desktop
