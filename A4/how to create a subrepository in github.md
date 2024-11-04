@@ -1,21 +1,35 @@
 # Objective
-link to other repositories in github by adding a sub repository
+Link to other repositories in github by adding a sub repository
 
 # Approach
 ## Step 1:
 Create external folder
+
 ## Step 2:
-open github desktop
+Open github desktop
+
 ## Step 3:
-open commando promt
+Open commando promt
+
+<img src="/A4/pics/openCommandoPromt.PNG" style="float: left;height: 500px;width: auto;" />
+
 ## Step 4:
-type "cd external"
+Type "cd external"
+
+<img src="/A4/pics/cdExternal.PNG" style="float: left;height: 500px;width: auto;" />
+
 ## Step 5:
-copy the link to repository 
-*pics*
+Copy the link to repository 
+
+<img src="/A4/pics/copyLinkToSubrepository.PNG" style="float: left;height: 500px;width: auto;" />
+
 ## Step 6:
-type "git submodule add -b main https://github.com/timmcginley/BIManalyst_g_xy.git"
+Type "git submodule add -b main https://github.com/timmcginley/BIManalyst_g_xy.git"
+
+<img src="/A4/pics/addSubmodule.PNG" style="float: left;height: 500px;width: auto;" />
+
 ## Step 7:
-commit changes in github desktop
+Commit changes in github desktop
+
 ## Step 8:
-push to origin
+Push to origin in github desktop
