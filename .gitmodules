@@ -1,0 +1,4 @@
+[submodule "external/BIManalyst_g_xy"]
+	path = external/BIManalyst_g_xy
+	url = https://github.com/timmcginley/BIManalyst_g_xy.git
+	branch = main
