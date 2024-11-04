@@ -30,7 +30,9 @@ Create a temporary file in your folder. Note that there must always be at least 
 
 ## Step 5:
 Write a summary of your changes in gitHub desktop and commit to main
-*insert pictur*
+<img src="/A4/pics/step_5_1.png" style="float: left;height: 500px;width: auto;" />
+
+<img src="/A4/pics/step_5_2_t1.png" style="float: left;height: 500px;width: auto;" />
 
 ## Step 6:
 Click "push to origin" in gitHub desktop
