@@ -7,6 +7,7 @@ Create external folder
 
 ## Step 2:
 Open github desktop
+
 ## Step 3:
 Open commando promt
 
@@ -29,5 +30,6 @@ Type "git submodule add -b main https://github.com/timmcginley/BIManalyst_g_xy.g
 
 ## Step 7:
 Commit changes in github desktop
+
 ## Step 8:
 Push to origin in github desktop
