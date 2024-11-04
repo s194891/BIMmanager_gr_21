@@ -9,7 +9,9 @@ Create external folder
 Open github desktop
 ## Step 3:
 Open commando promt
+
 <img src="/A4/pics/openCommandoPromt.png" style="float: left;height: 500px;width: auto;" />
+
 ## Step 4:
 Type "cd external"
 <img src="/A4/pics/cdExternal.png" style="float: left;height: 500px;width: auto;" />
