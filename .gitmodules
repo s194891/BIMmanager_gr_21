@@ -1,1 +1,5 @@
 
+[submodule "BIManalyst_g_22"]
+	path = BIManalyst_g_22
+	url = https://github.com/ioschkagautier/BIManalyst_g_22.git
+	branch = main
